@@ -33,13 +33,13 @@ Every scroll, every line of code, takes me one step closer to my goals.
   <a href="https://memocv.ir/">
     <img src="https://img.shields.io/badge/Website-www.memocv.ir-green?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://https://www.linkedin.com/in/muhammadrostamnezhad">
+  <a href="https://www.linkedin.com/in/muhammadrostamnezhad">
     <img src="https://img.shields.io/badge/Linkedin-@muhammadrostamnezhad-darkblue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/rad_front/">
+  <a href="https://instagram.com/mhmd.rstmnzhd/">
     <img src="https://img.shields.io/badge/Instagram-@mhmd.rstmnzhd-red?style=flat&logo=instagram" />
   </a>
-  <a href="https://t.me/aminkhoy78/">
+  <a href="https://t.me/mhmdrstmnzhd/">
     <img src="https://img.shields.io/badge/Telegram-@mhmdrstmnzhd-blue?style=flat&logo=telegram" />
   </a>
 </p>
