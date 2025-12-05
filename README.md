@@ -37,6 +37,9 @@ Every scroll, every line of code, takes me one step closer to my goals.
     <img src="https://img.shields.io/badge/Instagram-@mhmd.rstmnzhd-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@mhmdrstmnzhd-lightblue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@mhmdrstmnzhd-blue?style=flat&logo=telegram" />
+  </a>
+  <a href="https://https://www.linkedin.com/in/muhammadrostamnezhad">
+    <img src="https://img.shields.io/badge/Linkedin-@muhammadrostamnezhad-blue?style=flat&logo=linkedin" />
   </a>
 </p>
