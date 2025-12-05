@@ -33,10 +33,10 @@ Every scroll, every line of code, takes me one step closer to my goals.
     <img src="https://img.shields.io/badge/Website-www.memocv.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@mhmd.rstmnzhd-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@mhmdrstmnzhd-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
