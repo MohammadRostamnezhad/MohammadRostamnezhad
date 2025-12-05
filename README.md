@@ -7,4 +7,4 @@ These days, I’m building my profile piece by piece, learning something new eve
 Every scroll, every line of code, takes me one step closer to my goals.
 
 ### Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
