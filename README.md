@@ -30,10 +30,10 @@ Every scroll, every line of code, takes me one step closer to my goals.
 
 <p>
   <a href="https://memocv.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-www.memocv.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/rad_front/">
-    <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/aminkhoy78/">
     <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
