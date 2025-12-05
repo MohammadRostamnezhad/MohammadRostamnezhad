@@ -1,16 +1,16 @@
-Hi, I'm Mohammad Rostamnezhad 🖐
+## Hi, I'm Mohammad Rostamnezhad 🖐
+
+<h1>A Junior Front-End Developer exploring the world of modern web creation.</h1>
+
+From HTML, CSS, JavaScript, Tailwind, React, and Next.js to WordPress, I enjoy turning ideas into interactive experiences.  
+I also have beginner-level experience with PHP, Python, Docker, and SQL.  
+These days, I’m building my profile piece by piece, learning something new every day — fueled by coffee, music, and my journey with the German language.  
+Every scroll, every line of code, takes me one step closer to my goals.
 
 ---
 
-<h1>A Junior Front-End Developer exploring the world of modern web creation.
-From HTML, CSS, JavaScript, Tailwind, React, and Next.js to WordPress, I enjoy turning ideas into interactive experiences.
-I also have beginner-level experience with PHP, Python, Docker, and SQL.
-These days, I’m building my profile piece by piece, learning something new every day, fueled by coffee, music, and my journey with the German language.
-Every scroll, every line of code, takes me one step closer to my goals.</h1>
+### ⚡️ Skills
 
----
-
-### ⚡️Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -28,7 +28,7 @@ Every scroll, every line of code, takes me one step closer to my goals.</h1>
 
 ---
 
-### 📞Contact me
+### 📞 Contact me
 
 <p>
   <a href="https://memocv.ir/">
@@ -41,5 +41,3 @@ Every scroll, every line of code, takes me one step closer to my goals.</h1>
     <img src="https://img.shields.io/badge/Telegram-@mhmdrstmnzhd-blue?style=flat&logo=telegram" />
   </a>
 </p>
-
-<br />
